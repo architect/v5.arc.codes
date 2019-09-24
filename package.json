@@ -23,7 +23,7 @@
   "devDependencies": {
     "@architect/functions": "^1.12.1",
     "eslint": "^5.10.0",
-    "nodemon": "^1.18.9",
+    "nodemon": "^1.19.2",
     "spellchecker-cli": "^4.0.1",
     "tap-spec": "^5.0.0",
     "tape": "^4.11.0",
