@@ -21,7 +21,7 @@
     "@architect/architect": "^5.0.7"
   },
   "devDependencies": {
-    "@architect/functions": "^1.12.1",
+    "@architect/functions": "^3.4.7",
     "eslint": "^6.6.0",
     "nodemon": "^1.19.2",
     "spellchecker-cli": "^4.0.1",
