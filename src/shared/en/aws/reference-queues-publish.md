@@ -5,7 +5,7 @@
 Once deployed you can invoke `@queues` from any other function defined under the same `@app` namespace:
 
 ```javascript
-let arc = require('@achitect/functions')
+let arc = require('@architect/functions')
 
 arc.queues.publish({
   name: 'publish-log',
