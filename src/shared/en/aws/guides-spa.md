@@ -2,8 +2,7 @@
 
 ## Static and dynamic API endpoints coexisting at the same origin
 
-Architect provides two methods to proxy static assets through API Gateway.
- This means your single page application and API can share the same domain name, session support and database access *without CORS* and *without 3rd party proxies*. 
+Architect provides two methods to proxy static assets through API Gateway. This means your single page application and API can share the same domain name, session support and database access *without CORS* and *without 3rd party proxies*. 
 
 For this guide we'll use the following `.arc` file:
 
