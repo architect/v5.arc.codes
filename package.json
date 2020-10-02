@@ -27,7 +27,7 @@
     "spellchecker-cli": "^4.0.1",
     "tap-spec": "^5.0.0",
     "tape": "^5.0.1",
-    "tiny-json-http": "^7.2.2"
+    "tiny-json-http": "^7.3.0"
   },
   "prettier": {
     "semi": false,
